@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\A\AbilityWheelSwap\AbilityWheelSwap\AbilityWheelSwap\obj\x64\Debug\AbilityWheelSwap.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\A\AbilityWheelSwap\AbilityWheelSwap\AbilityWheelSwap\obj\x64\Debug\AbilityWheelSwap.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\A\AbilityWheelSwap\AbilityWheelSwap\AbilityWheelSwap\bin\x64\Debug\AbilityWheelSwap.dll
+C:\Users\Usuario\Desktop\A\AbilityWheelSwap\AbilityWheelSwap\AbilityWheelSwap\bin\x64\Debug\AbilityWheelSwap.pdb
+C:\Users\Usuario\Desktop\A\AbilityWheelSwap\AbilityWheelSwap\AbilityWheelSwap\bin\x64\Debug\Rewired_Core.dll
+C:\Users\Usuario\Desktop\A\AbilityWheelSwap\AbilityWheelSwap\AbilityWheelSwap\bin\x64\Debug\Rewired_Windows.dll
+C:\Users\Usuario\Desktop\A\AbilityWheelSwap\AbilityWheelSwap\AbilityWheelSwap\bin\x64\Debug\UnityEngine.AnimationModule.dll
+C:\Users\Usuario\Desktop\A\AbilityWheelSwap\AbilityWheelSwap\AbilityWheelSwap\bin\x64\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\Usuario\Desktop\A\AbilityWheelSwap\AbilityWheelSwap\AbilityWheelSwap\bin\x64\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\Usuario\Desktop\A\AbilityWheelSwap\AbilityWheelSwap\AbilityWheelSwap\bin\x64\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\Usuario\Desktop\A\AbilityWheelSwap\AbilityWheelSwap\AbilityWheelSwap\obj\x64\Debug\AbilityW.C87AD2BE.Up2Date
+C:\Users\Usuario\Desktop\A\AbilityWheelSwap\AbilityWheelSwap\AbilityWheelSwap\obj\x64\Debug\AbilityWheelSwap.dll
+C:\Users\Usuario\Desktop\A\AbilityWheelSwap\AbilityWheelSwap\AbilityWheelSwap\obj\x64\Debug\AbilityWheelSwap.pdb
